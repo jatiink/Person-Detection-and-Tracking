@@ -1,1 +1,2 @@
 # Person-Detection-and-Tracking
+I utilized a pre-trained Yolov7 model for object detection and implemented a Deepsort algorithm to track individuals in the video feed. Additionally, I developed a separate model that checks whether a person is wearing a mask or not, taking the cropped face as input. The video feed displays the results on person as either "With a Mask" or "Without a Mask" also shows the tracked path of individuals.
